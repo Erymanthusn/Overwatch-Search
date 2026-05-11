@@ -13,11 +13,18 @@ Este projeto é um site desenvolvido para consultar informações sobre os heró
 
 O objetivo do projeto é fornecer uma forma simples, rápida e intuitiva de pesquisar heróis, conhecer suas funções e facilitar a compreensão da composição de equipes no jogo.
 
-Funcionalidades
-Listagem de heróis do Overwatch
-Separação por função
-Interface simples e intuitiva
-Consulta rápida de informações dos personagens
-Objetivo
+Funcionalidades:
 
-Este projeto foi criado com foco em prática de desenvolvimento web e consumo de informações relacionadas ao universo de Overwatch, oferecendo uma experiência organizada para jogadores e fãs do game.
+Listagem de heróis do Overwatch
+
+Separação por função
+
+Interface simples e intuitiva
+
+Consulta rápida de informações dos personagens
+
+
+
+Objetivo:
+
+Este projeto foi criado com foco em prática de desenvolvimento web e consumo de APIs.
